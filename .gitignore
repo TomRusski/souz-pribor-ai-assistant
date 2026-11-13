@@ -22,3 +22,8 @@ Thumbs.db
 
 # Логи
 *.log
+
+# Тестовые файлы разработки (не коммитить)
+test_product.json
+test_product2.json
+products_data.json
